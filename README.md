@@ -9,6 +9,7 @@
 - Drawing Paths and Shapes
 - Animating Views and Transitions
 - Composing Complex Interfaces
+- Working with UI Controls
 
 ### Tools used 🛠
 - MacBook Pro M1 2020 SSD 256gb RAM 8gb
