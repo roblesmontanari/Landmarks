@@ -11,6 +11,7 @@
 - Composing Complex Interfaces
 - Working with UI Controls
 - Interfacing with UIKit
+- watchOS application
 
 ### Tools used 🛠
 - MacBook Pro M1 2020 SSD 256gb RAM 8gb
